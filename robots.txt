@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ohfeiquail.davidjohnson.me/sitemap.xml
